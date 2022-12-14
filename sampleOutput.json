@@ -1,0 +1,95 @@
+{
+  "status": "ok",
+  "totalResults": 8,
+  "articles": [
+    {
+      "source": { "id": "buzzfeed", "name": "Buzzfeed" },
+      "author": "nl_10",
+      "title": "Eat A Feast And I'll Give You A Movie To Watch",
+      "description": "Everyone knows your taste buds are CRITICAL to understanding your movie preferences!",
+      "url": "https://www.buzzfeed.com/nl_10/eat-a-feast-movie-quiz",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2022-11/12/4/enhanced/115478ffa012/original-5320-1668227245-4.jpg?crop=2532:1325;0,47%26downsize=1250:*",
+      "publishedAt": "2022-11-29T15:07:30.3998809Z",
+      "content": null
+    },
+    {
+      "source": { "id": "buzzfeed", "name": "Buzzfeed" },
+      "author": "Matt Stopera",
+      "title": "25 People Who Were Kids In Christmas Movies And Are Adults Now Because That's How Time And Aging Works",
+      "description": "I'll never get over the fact that the kid from Love Actually is in his 30s now.",
+      "url": "https://www.buzzfeed.com/mjs538/then-and-now-christmas-movies",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2022-11/28/18/enhanced/2cc870c298aa/original-11405-1669661894-8.jpg?crop=1243:651;0,53%26downsize=1250:*",
+      "publishedAt": "2022-11-29T14:07:43.0409969Z",
+      "content": null
+    },
+    {
+      "source": { "id": "polygon", "name": "Polygon" },
+      "author": "Owen S. Good",
+      "title": "Gotham Knights update adds co-op ‘Heroic Assault’ mode with Starro",
+      "description": "Gotham Knights’ next title update, launching Nov. 29, will bring the four-player cooperative “Heroic Assault” mode, plus the monstrous Starro, last seen wrecking the city in the 2021 movie The Suicide Squad.",
+      "url": "https://www.polygon.com/23482617/gotham-knights-update-heroic-assault-starro",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/BlKr_I6IbzRBxO51uTQ_pdUxsT0=/4x0:1901x993/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22766946/starro_suicide_squad.jpg",
+      "publishedAt": "2022-11-28T19:44:09Z",
+      "content": "Gotham Knights next update is going in a rather unexpected direction, introducing a colossal, one-eyed starfish to the game, apparently to referee the new Heroic Assault game mode.\r\nThe extraterrestr… [+1018 chars]"
+    },
+    {
+      "source": { "id": "polygon", "name": "Polygon" },
+      "author": "Michael McWhertor",
+      "title": "New Starship Troopers FPS coming from Squad maker Offworld Industries",
+      "description": "Starship Troopers: Extermination is a new first-person shooter video game from Squad developer Offworld Industries and Sony. The FPS based on Paul Verhoeven’s Starship Troopers movie and Robert A. Heinlein’s novel.",
+      "url": "https://www.polygon.com/23481844/starship-troopers-fps-extermination-release-date-offworld-industries",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ZxSbwj-YbuWwiLfyBeDA9fV-p_E=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24233415/Cave_Chokepoint.jpeg",
+      "publishedAt": "2022-11-28T15:00:00Z",
+      "content": "Squad developer Offworld Industries reveals Starship Troopers: Extermination"
+    },
+    {
+      "source": {
+        "id": "entertainment-weekly",
+        "name": "Entertainment Weekly"
+      },
+      "author": "Kristen Baldwin",
+      "title": "<em>The Menu</em> and <em>Bones and All </em>serve up dark feasts, <em>Welcome to Chippendales</em> goes beyond beefcake",
+      "description": "What's worth your time in movies and TV this weekend? EW's critics review the latest releases: <em>Welcome to Chippendales</em>, <em>Bones and All</em>, <em>The Menu</em>, <em>She Said</em>, and <em>The Inspection</em>.",
+      "url": "https://ew.com/movies/movie-reviews/she-said-the-menu-bones-and-all-the-inspection-welcome-to-chippendales/",
+      "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&poi=%5B980%2C546%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2022%2F11%2F17%2FMM-NOV18.jpg",
+      "publishedAt": "2022-11-18T20:00:00Z",
+      "content": "Welcome to Chippendales\r\n(Premiering Nov. 22 on Hulu)\r\nThe true-crime tale of Chippendales founder Somen \"Steve\" Banerjee checks all the true-crime boxes: romance, arson, murder for hire, a jailhouse… [+11624 chars]"
+    },
+    {
+      "source": {
+        "id": "entertainment-weekly",
+        "name": "Entertainment Weekly"
+      },
+      "author": "Dan Snierson",
+      "title": "Your guide to the 2023 TV premiere dates",
+      "description": "We'll tell you how to watch all the new and returning series, plus streaming movies.",
+      "url": "https://ew.com/tv/2023-tv-premiere-dates/",
+      "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&rect=0%2C114%2C2001%2C1115&poi=%5B980%2C598%5D&w=2001&h=1001&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2022%2F11%2F02%2FSQ-TV-PREMIERES-2023.jpg",
+      "publishedAt": "2022-11-03T20:30:00Z",
+      "content": "Forget holiday shopping — much more important work awaits you! And that would be: Planning your TV-watching calendar for 2023.\r\nThe networks and streamers are already flipping their calendars ahead a… [+3138 chars]"
+    },
+    {
+      "source": { "id": "ign", "name": "IGN" },
+      "author": "Collier Jennings",
+      "title": "Best Action Movies on Netflix Right Now (September 2022) - IGN",
+      "description": "These are the best action movies on Netflix right now -- blockbusters, fight films, animated adventures and shootouts galore.",
+      "url": "https://www.ign.com/articles/best-action-movies-on-netflix-right-now",
+      "urlToImage": "https://assets-prd.ignimgs.com/2022/07/28/rrr-1659047262112.jpg?width=1280",
+      "publishedAt": "2022-09-01T18:03:14Z",
+      "content": "There is nothing like a good action movie on Netflix. The perfectly choreographed fight scenes that let you feel every punch and kick on screen; the shootouts that see bullets and bodies hitting the … [+11394 chars]"
+    },
+    {
+      "source": { "id": "techcrunch-cn", "name": "TechCrunch (CN)" },
+      "author": "Brian Heater",
+      "title": "盘点 2019 年消失的明星创业公司 | TechCrunch 中文版",
+      "description": "创业公司会因为各种原因而失败，但有一点不会改变：创业是极其困难的事。想要创办一家成功的公司，需要的不仅仅是热情，以及找到合适的人才（尽管很明显这两点很重要）。成功的创业者需要在许许多多细节上做到完美。\r\n\r\n粗略地回顾下今年的创业公司，可以发现并没有什么公司能带来像去年Theranos那样的轰动性故事。Theranos的故事被写成了畅销书，改编成了纪录片，相关电影也即将上映。不过某些公司，例如MoviePass，可能已经逐渐接近。\r\n\r\n通常来说，每看到一家Theranos，我们同时也会看到数十位辛勤创业者的故事…",
+      "url": "https://techcrunch.cn/2019/12/27/startups-lost-in-2019/",
+      "urlToImage": "https://files.techcrunch.cn/2019/12/gettyimages-829632570.jpg?w=1200",
+      "publishedAt": "2019-12-27T16:46:58Z",
+      "content": "Theranos Theranos MoviePass\r\n Theranos\r\n 2019 \r\nAnki2010 2019 \r\n1.82 \r\n2013 WWDC Overdrive iPhone \r\n3 Anki CozmoAnki 2018 Vector 2019 4 Anki 150 “”Cozmo \r\nChariot2014 2019 \r\n300 2017 \r\nChariot “” \r\n … [+1085 chars]"
+    }
+  ]
+}
+
+
+
